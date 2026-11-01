@@ -70,10 +70,4 @@ Record prompts related to:
 - README creation
 - Data dictionary
 - Design decisions
-- GitHub setup and submission preparation
 
-## Prompt History Completeness
-
-This document should contain the prompts submitted to ChatGPT for this project. Where exact historical wording cannot be recovered, entries must be clearly marked as reconstructed summaries rather than verbatim prompts.
-
-AI responses are not reproduced in full because the challenge does not require them.
