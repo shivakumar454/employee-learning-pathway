@@ -1,0 +1,26 @@
+role_id,role_name,role_level,career_track,description
+ROLE-0001,Junior Software Engineer,1,ENGINEERING,Career role: Junior Software Engineer
+ROLE-0002,Software Engineer,2,ENGINEERING,Career role: Software Engineer
+ROLE-0003,Senior Software Engineer,3,ENGINEERING,Career role: Senior Software Engineer
+ROLE-0004,Backend Developer,4,ENGINEERING,Career role: Backend Developer
+ROLE-0005,Frontend Developer,5,ENGINEERING,Career role: Frontend Developer
+ROLE-0006,Full Stack Developer,6,ENGINEERING,Career role: Full Stack Developer
+ROLE-0007,Data Analyst,1,ENGINEERING,Career role: Data Analyst
+ROLE-0008,Senior Data Analyst,2,ENGINEERING,Career role: Senior Data Analyst
+ROLE-0009,Data Engineer,3,ENGINEERING,Career role: Data Engineer
+ROLE-0010,Senior Data Engineer,4,ENGINEERING,Career role: Senior Data Engineer
+ROLE-0011,Machine Learning Engineer,5,ENGINEERING,Career role: Machine Learning Engineer
+ROLE-0012,AI Engineer,6,ENGINEERING,Career role: AI Engineer
+ROLE-0013,DevOps Engineer,1,ENGINEERING,Career role: DevOps Engineer
+ROLE-0014,Cloud Engineer,2,ENGINEERING,Career role: Cloud Engineer
+ROLE-0015,QA Engineer,3,ENGINEERING,Career role: QA Engineer
+ROLE-0016,Product Manager,4,BUSINESS,Career role: Product Manager
+ROLE-0017,Business Analyst,5,BUSINESS,Career role: Business Analyst
+ROLE-0018,UX Designer,6,BUSINESS,Career role: UX Designer
+ROLE-0019,UI Designer,1,BUSINESS,Career role: UI Designer
+ROLE-0020,Security Engineer,2,BUSINESS,Career role: Security Engineer
+ROLE-0021,HR Specialist,3,BUSINESS,Career role: HR Specialist
+ROLE-0022,Finance Analyst,4,BUSINESS,Career role: Finance Analyst
+ROLE-0023,Operations Analyst,5,BUSINESS,Career role: Operations Analyst
+ROLE-0024,Sales Executive,6,BUSINESS,Career role: Sales Executive
+ROLE-0025,Technical Lead,1,LEADERSHIP,Career role: Technical Lead

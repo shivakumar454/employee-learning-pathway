@@ -1,0 +1,93 @@
+{
+    "project": "Employee Learning Pathway",
+    "generated_at_utc": "2026-11-01T13:43:42.306399+00:00",
+    "database": "data/learning_pathway.duckdb",
+    "database_validation": {
+        "table_counts": {
+            "roles": 25,
+            "skills": 500,
+            "employees": 5000,
+            "role_skill_targets": 750,
+            "employee_skills": 111913,
+            "courses": 1000,
+            "course_skills": 5948,
+            "prerequisites": 296,
+            "budgets": 10,
+            "enrollments": 10000,
+            "completions": 5024,
+            "enrollment_events": 18499
+        },
+        "total_records": 158965,
+        "expected_count_checks": {
+            "roles": {
+                "expected": 25,
+                "actual": 25,
+                "passed": true
+            },
+            "skills": {
+                "expected": 500,
+                "actual": 500,
+                "passed": true
+            },
+            "employees": {
+                "expected": 5000,
+                "actual": 5000,
+                "passed": true
+            },
+            "role_skill_targets": {
+                "expected": 750,
+                "actual": 750,
+                "passed": true
+            },
+            "courses": {
+                "expected": 1000,
+                "actual": 1000,
+                "passed": true
+            },
+            "enrollments": {
+                "expected": 10000,
+                "actual": 10000,
+                "passed": true
+            },
+            "completions": {
+                "expected": 5024,
+                "actual": 5024,
+                "passed": true
+            },
+            "enrollment_events": {
+                "expected": 18499,
+                "actual": 18499,
+                "passed": true
+            }
+        },
+        "passed": true
+    },
+    "other_validation_results": {
+        "transaction_validation": {
+            "errors": 0,
+            "warnings": 0,
+            "status": "PASSED"
+        },
+        "recommendation_validation": {
+            "recommendations_checked": 6615,
+            "invalid_recommendations": 0,
+            "status": "PASSED"
+        },
+        "anomaly_validation": {
+            "checks_passed": 21,
+            "total_checks": 21,
+            "status": "PASSED"
+        },
+        "automated_tests": {
+            "tests_passed": 12,
+            "total_tests": 12,
+            "status": "PASSED"
+        }
+    },
+    "overall_status": "PASSED",
+    "notes": [
+        "Validation results reflect the latest successful runs recorded for this project.",
+        "Anomaly validation verifies scenario construction and ground-truth labels, not an independent anomaly detection engine.",
+        "Generated budgets are synthetic planning assumptions."
+    ]
+}

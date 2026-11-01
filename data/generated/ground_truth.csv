@@ -1,0 +1,6 @@
+ground_truth_id,scenario_id,employee_id,course_id,expected_label,expected_reason
+GT-ANOM-001,ANOM-001,EMP-000001,CRS-000023,BLOCKED,Required prerequisite CRS-000017 has no passed completion.
+GT-ANOM-002,ANOM-002,EMP-000002,CRS-000317,BLOCKED,The proposed allocation exceeds available department budget.
+GT-ANOM-003,ANOM-003,EMP-000485,CRS-000243,REJECT_DUPLICATE,The same enrollment completion must not be counted twice.
+GT-ANOM-004,ANOM-004,EMP-000025,CRS-000656,REASSESSMENT_REQUIRED,Course completion alone does not prove skill improvement.
+GT-ANOM-005,ANOM-005,EMP-000003,CRS-000004,BLOCKED,Course is unavailable during the 90-day planning period.

@@ -1,0 +1,209 @@
+{
+  "project": "Employee Learning Pathway",
+  "random_seed": 20261022,
+  "python_version": "3.11.0",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "file_count": 40,
+  "files": [
+    {
+      "path": "src/allocate_learning_budget.py",
+      "size_bytes": 8209,
+      "sha256": "29f3a425bef256e61011cbbd34436afcc0427b4ced1b8a39e04e7182646f32c3"
+    },
+    {
+      "path": "src/build_manifest.py",
+      "size_bytes": 1830,
+      "sha256": "5f94fb64428f082c8d4f9f55d6fbb4c4c6af29d1df06de7f33db9b19b7718d11"
+    },
+    {
+      "path": "src/build_validation_summary.py",
+      "size_bytes": 3515,
+      "sha256": "31a9b355dfca0f3ff24542ce3d728319a2278862a34a2b966a8a6659000bef5a"
+    },
+    {
+      "path": "src/diagnose_recommendations.py",
+      "size_bytes": 3591,
+      "sha256": "68667a5adcbfd3b35b113a0eb52bb2d4dc8d49e60fbd31e5f505531d19214b61"
+    },
+    {
+      "path": "src/export_sql_seed.py",
+      "size_bytes": 5637,
+      "sha256": "9612577c47cd43834b6e875e8f2b2e824ae26202c303e61be6a394a9f9968f3e"
+    },
+    {
+      "path": "src/generator.py",
+      "size_bytes": 11095,
+      "sha256": "15a2b3e4971b8681f809064968f86daffe1515d393502fcb7fbd7a5f40155048"
+    },
+    {
+      "path": "src/initialize_db.py",
+      "size_bytes": 789,
+      "sha256": "a3c398caaac965e05c5947059c55cf9a828e19f9e978a89181ddb6d6d68c1caf"
+    },
+    {
+      "path": "src/inject_anomalies.py",
+      "size_bytes": 10732,
+      "sha256": "36c070737007c0d370c9bc6947d095be7ec14801d86a71a99cca4b7bec4175b5"
+    },
+    {
+      "path": "src/load_data.py",
+      "size_bytes": 9846,
+      "sha256": "8637b32a7fceef0f3c1e092913d74cc8b05fb43af8fcd6037f74e1676f4cabd3"
+    },
+    {
+      "path": "src/recommendation_engine.py",
+      "size_bytes": 13105,
+      "sha256": "846592fde7c9d8f95a0e04ac129b79eaadfb3de668488a4f8a39294383bfdb16"
+    },
+    {
+      "path": "src/reconcile_budgets.py",
+      "size_bytes": 4253,
+      "sha256": "fd5b6a07ce1b2b122ba0c74f25195e9be057a80dadee2a887722d1c9b45d75d3"
+    },
+    {
+      "path": "src/skill_gap_analysis.py",
+      "size_bytes": 3332,
+      "sha256": "097947d288b33a5450503734fee8693fafa81c73eccbbb90fd4c403b1551b34a"
+    },
+    {
+      "path": "src/transaction_generator.py",
+      "size_bytes": 7287,
+      "sha256": "622b430b558ee861bca5d8615706446af31686741c411a613fd32a41750c47d1"
+    },
+    {
+      "path": "src/validate_anomalies.py",
+      "size_bytes": 9875,
+      "sha256": "3a83db595109809676e6ea9f6f200b89d19b307fd714c718fbada637fc3711ae"
+    },
+    {
+      "path": "src/validate_recommendations.py",
+      "size_bytes": 5201,
+      "sha256": "867f634f75e45877e9b4acc22ee0d0287e0ccfc94e1276c64c3411c2747a9fb2"
+    },
+    {
+      "path": "src/validate_transactions.py",
+      "size_bytes": 8618,
+      "sha256": "1c9cb794ab1d84e07353a30c4ab3ccda79c6fec1234a0028ca4c77b5ae2c60dd"
+    },
+    {
+      "path": "src/verify_database.py",
+      "size_bytes": 988,
+      "sha256": "c4a03624efa99c6b45c7492918d1585fbf88f77536004824851e226f58a3eab7"
+    },
+    {
+      "path": "src/verify_sql_seed.py",
+      "size_bytes": 3261,
+      "sha256": "960eb68731331171b3fc7a0f4de3bc94128916d831e8b3e9e357e023b4cd7df2"
+    },
+    {
+      "path": "sql/schema.sql",
+      "size_bytes": 8148,
+      "sha256": "dcedf2bd8499a2b0c913a2b7effbc282d7c54b41a8b66dc8048de241a810d5cf"
+    },
+    {
+      "path": "sql/seed.sql",
+      "size_bytes": 17499906,
+      "sha256": "84065e1feb35711a303fd4a4efc07eef01d16c60c8956a0218c10ee714ac21c2"
+    },
+    {
+      "path": "docs/data_dictionary.md",
+      "size_bytes": 10200,
+      "sha256": "dbc9cfc0ef8d0a12f0523f29f70ca8c7b9012838bff93037a80dc4afbd4ea8b6"
+    },
+    {
+      "path": "docs/design_decisions.md",
+      "size_bytes": 3911,
+      "sha256": "b8c1d9e151cd454a20f18a76c6c1b4573014c935a24f098f1837caec3255c067"
+    },
+    {
+      "path": "data/generated/anomaly_scenarios.csv",
+      "size_bytes": 759,
+      "sha256": "a69ef148ed942d202098d8770b975b6e0d31e2edb627453378b3f50b2351c932"
+    },
+    {
+      "path": "data/generated/budgets.csv",
+      "size_bytes": 766,
+      "sha256": "ee3f8a2a155df123b44ef3d7c1fe2ff39dfa223bf46bed6deacf057bafa83488"
+    },
+    {
+      "path": "data/generated/completions.csv",
+      "size_bytes": 432216,
+      "sha256": "a1633cf9638e22bdcd05cad32936d5945a81ed6e8b47490e355b6bbf42c2e86e"
+    },
+    {
+      "path": "data/generated/course_skills.csv",
+      "size_bytes": 226077,
+      "sha256": "de545c39a3faf5c61f0ecf748d8b81823e33c597a1a4fb8884fcd094e64f2780"
+    },
+    {
+      "path": "data/generated/courses.csv",
+      "size_bytes": 95444,
+      "sha256": "454ae2fdc7793d17b5a16f9b09ebfdb3800a75a7cd7b2a1d461a0095b17d450e"
+    },
+    {
+      "path": "data/generated/employee_skills.csv",
+      "size_bytes": 7184740,
+      "sha256": "025c33c8748d6872201d7fececd4d37d28bb1af99ed7ea3b4d588c7b77068ad4"
+    },
+    {
+      "path": "data/generated/employees.csv",
+      "size_bytes": 509958,
+      "sha256": "dcc4709370cce655ddb73a30f754fbd6e6189854fa4b91b198c88b024e48cdb8"
+    },
+    {
+      "path": "data/generated/enrollment_events.csv",
+      "size_bytes": 1094928,
+      "sha256": "74222948ec1c0e8e482865a0391133f08df7f530a85e09f912c8a8e1182ed06c"
+    },
+    {
+      "path": "data/generated/enrollments.csv",
+      "size_bytes": 703611,
+      "sha256": "f15ee2ba4c1b74b43e76f19dec9ecda8dc1c7f6e27418ab29c71edc5fef2e352"
+    },
+    {
+      "path": "data/generated/ground_truth.csv",
+      "size_bytes": 658,
+      "sha256": "9a5e6e96e8d0d8950c3e4f1435b9078c1831426b03fab664d82b6792a38e3cc0"
+    },
+    {
+      "path": "data/generated/prerequisites.csv",
+      "size_bytes": 10656,
+      "sha256": "16b61ad62a578a6388c5ecee5c4adab1908c4ea95be36c01cefe99f0766a8cca"
+    },
+    {
+      "path": "data/generated/role_skill_targets.csv",
+      "size_bytes": 36075,
+      "sha256": "4d965bf010ad7aee6e06be0a1c28aac2674a01aaa2526e716742494bec8c5cdc"
+    },
+    {
+      "path": "data/generated/roles.csv",
+      "size_bytes": 1837,
+      "sha256": "5293e2ca69e7c022a6aa762c50bb796a91fef53ebbbde0c9ac2391c36d059e2f"
+    },
+    {
+      "path": "data/generated/skills.csv",
+      "size_bytes": 42077,
+      "sha256": "cd03c65472e20080ef7df13d0a02c4a1ca826f8c38050f6f04b52b4f6eda9e62"
+    },
+    {
+      "path": "reports/budget_allocation.csv",
+      "size_bytes": 160037,
+      "sha256": "115cf4cc1a2cb249ca8f27813e2d5fdb385714510271cd6f5ee081d6a79e19ec"
+    },
+    {
+      "path": "reports/department_budget_summary.csv",
+      "size_bytes": 692,
+      "sha256": "5aacaee1f0616b07e905a22f95cca9ee5633fd980bbd026f8488d38daf11340e"
+    },
+    {
+      "path": "reports/employee_skill_gaps.csv",
+      "size_bytes": 12799319,
+      "sha256": "a055543b5021c4bf0e9b324b7107393e06f5f5d8f94fa558d185131223eb0e4f"
+    },
+    {
+      "path": "reports/recommendations.csv",
+      "size_bytes": 1650306,
+      "sha256": "af3faf7f824d98de00cea1d2dc21c8370d15cae9b881008a090db12f620c6406"
+    }
+  ]
+}
