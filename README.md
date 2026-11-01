@@ -315,3 +315,16 @@ python src/build_manifest.py
 ## 16. Project Outcome
 
 The project delivers a reproducible employee learning pathway data pipeline with relational data modelling, synthetic data generation, skill-gap analysis, course recommendation, budget allocation, labelled anomaly scenarios, SQL restoration, and automated validation.
+
+
+## AI Usage and Transparency
+
+This project was developed with assistance from ChatGPT (OpenAI).
+
+The `ai_usage/` directory contains:
+
+- `prompt_history.md` — AI prompts used during development.
+- `ai_usage_disclosure.md` — Explanation of AI assistance.
+- `human_validation.md` — Personal review and validation activities.
+
+AI-generated code and suggestions were reviewed and tested as part of the development process.
